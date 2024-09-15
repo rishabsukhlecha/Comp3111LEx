@@ -4,3 +4,4 @@ This is the readme file for Lab 1 within my COMP 3111 Software Engineering cours
 
 Below you can find the screenshot of Lab 1 in IntelliJ:
 
+![img.png](img.png)
